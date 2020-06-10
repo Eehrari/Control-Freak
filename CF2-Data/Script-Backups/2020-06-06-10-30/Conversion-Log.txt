@@ -1,0 +1,12 @@
+Converting script [1 / 1]	[\Scripts\PlayerMove.cs]
+	Fragments : 3
+		[ 0] : Line:   24	InputMethod   GetAxisRaw          	("Horizontal")
+		[ 1] : Line:   29	InputMethod   GetAxisRaw          	("Horizontal")
+		[ 2] : Line:   41	InputMethod   GetKeyDown          	(KeyCode.Space)
+
+
+1 scripts modified!
+Overwriting actual scripts...
+	[0 / 1] from  [C:/Users/Ehsan Ehrari/Downloads/UnityProjects/ControlFreakTest/CF2-Data/Script-Backups/2020-06-06-10-30\Assets-After/\Scripts\PlayerMove.cs] to [C:/Users/Ehsan Ehrari/Downloads/UnityProjects/ControlFreakTest/Assets/\Scripts\PlayerMove.cs]
+
+Overwriting COMPLETED!
